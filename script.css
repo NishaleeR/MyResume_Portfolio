@@ -364,6 +364,7 @@ h3 {
   .hero {
     grid-template-columns: 1fr;
     min-height: auto;
+    padding-right: 70px;
   }
 
   .card-grid {
